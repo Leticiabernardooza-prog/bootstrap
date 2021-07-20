@@ -1,2 +1,2 @@
 # bootstrap
-utilizando o bootastrap
+utilizando o bootstrap
